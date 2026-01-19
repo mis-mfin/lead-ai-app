@@ -1,0 +1,7 @@
+{
+  "name": "Vehicle Finance Lead Manager",
+  "description": "A comprehensive Second-Hand Vehicle Finance Lead Management System with Case ID tracking, verification modules, and printable agreement views.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
